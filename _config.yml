@@ -137,8 +137,8 @@ plugins:
 
 scholar:
 
-  last_name: [Balci, Balcı]
-  first_name: Hasan
+  last_name: Balci
+  first_name: [Hasan, H., H]
 
   style: apa
   locale: en
