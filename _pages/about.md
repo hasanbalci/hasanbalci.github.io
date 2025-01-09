@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bethesda, MD - USA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher at the [National Library of Medicine](https://www.ncbi.nlm.nih.gov/research/) (NLM), part of the National Institutes of Health (NIH) in the USA, supervised by Dr. Augustin Luna. My research focuses on developing innovative methods for graph visualization and analysis, with a particular emphasis on their applications in bioinformatics. Currently, I am working on techniques that leverage large language models (LLMs) to enhance and broaden the use of graph-based biological notations. Previously, I was a postdoctoral researcher at [MaCSBio](https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology) in the Netherlands, and I earned a PhD in Computer Engineering from [Bilkent University](https://w3.cs.bilkent.edu.tr/) in Turkey. Here is my <a href="assets/pdf/Hasan_Balci_CV_Feb24.pdf" target="_blank">CV</a>.   
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
