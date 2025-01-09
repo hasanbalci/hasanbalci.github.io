@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-schedule",
+          title: "schedule",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/schedule/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -368,10 +375,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-started-as-a-postdoctoral-researcher-at-nlm-nih-in-the-usa",
-          title: 'I started as a postdoctoral researcher at NLM/NIH in the USA.',
-          description: "",
-          section: "News",},{id: "news-our-paper-immune-digital-twins-for-complex-human-pathologies-applications-limitations-and-challenges-is-published-in-npj-systems-biology-and-applications",
+    },{id: "news-our-paper-immune-digital-twins-for-complex-human-pathologies-applications-limitations-and-challenges-is-published-in-npj-systems-biology-and-applications",
           title: 'Our paper Immune digital twins for complex human pathologies: applications, limitations, and challenges...',
           description: "",
           section: "News",},{id: "news-i-am-elected-as-sbgn-editor-for-the-term-2025-2027",
