@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started as a postdoctoral researcher at NLM/NIH in USA.
+I started as a postdoctoral researcher at NLM/NIH in the USA.
