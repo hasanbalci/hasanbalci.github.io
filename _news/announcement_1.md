@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-03 15:59:00-0400
+date: 2024-11-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I started as a postdoctoral researcher at NLM/NIH in the USA.
+Our paper [Immune digital twins for complex human pathologies: applications, limitations, and challenges](https://doi.org/10.1038/s41540-024-00450-5) is published in npj Systems Biology and Applications.
