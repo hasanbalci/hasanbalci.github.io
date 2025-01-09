@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-started-as-a-postdoctoral-researcher-at-nlm-nih-in-usa",
+          title: 'I started as a postdoctoral researcher at NLM/NIH in USA.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-immune-digital-twins-for-complex-human-pathologies-applications-limitations-and-challenges-published-in-npj-systems-biology-and-applications",
+          title: 'Our paper Immune digital twins for complex human pathologies: applications, limitations, and challenges...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-am-elected-as-sbgn-editor-for-the-term-2025-2027",
+          title: 'I am elected as SBGN Editor for the term 2025-2027.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
