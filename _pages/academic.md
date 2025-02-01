@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-##### My Academic Journey
+##### My academic journey
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
