@@ -19,4 +19,4 @@ I am a postdoctoral researcher at the [National Library of Medicine](https://www
 
 Previously, I was a postdoctoral researcher at the [Maastricht Centre for Systems Biology (MaCSBio)](https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology) in the Netherlands, and I earned my PhD in Computer Engineering from [Bilkent University](https://w3.cs.bilkent.edu.tr/) in Türkiye. 
 
-Here is my <a href="assets/pdf/Hasan_Balci_CV_Jan12_2025.pdf" target="_blank">CV</a>.
+Here is my <a href="assets/pdf/Hasan_Balci_CV.pdf" target="_blank">CV</a>.
