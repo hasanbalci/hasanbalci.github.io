@@ -8,7 +8,10 @@ nav_order: 3
 ---
 
 <ul>
-  <li style="padding-bottom: 5px"> Y. Z. Ozgul, U. Dogrusoz, <b>H. Balci</b>, “SyBValS: a validation and error resolution service for biological pathway maps”, <i>BMC Genomics</i>, 2025. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
+  <li style="padding-bottom: 5px">
+  SyBValS: a validation and error resolution service for biological pathway maps<br>
+  Y. Z. Ozgul, U. Dogrusoz, <b>H. Balci</b><br>
+  BMC Genomics, 2025. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
   </li>
   <li style="padding-bottom: 5px"> O. Zafar, U. Dogrusoz, <b>H. Balci</b>, A. F. Halac, “CMGV: Algorithms and a unified framework for complexity management in graph visualization”, <i>Information Visualization</i>, 2025. DOI: <a target="_blank" href="https://doi.org/10.1177/14738716251383173">10.1177/14738716251383173</a>
   </li>
