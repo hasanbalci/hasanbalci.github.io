@@ -9,9 +9,9 @@ nav_order: 3
 
 <h5>2025</h5>
 <ul>
-  <li> Y. Z. Ozgul, U. Dogrusoz, <b>H. Balci</b>, “SyBValS: a validation and error resolution service for biological pathway maps”, <i>BMC Genomics</i>, 2025. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
+  <li style="padding-bottom: 5px"> Y. Z. Ozgul, U. Dogrusoz, <b>H. Balci</b>, “SyBValS: a validation and error resolution service for biological pathway maps”, <i>BMC Genomics</i>, 2025. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
   </li>
-  <li> O. Zafar, U. Dogrusoz, <b>H. Balci</b>, A. F. Halac, “CMGV: Algorithms and a unified framework for complexity management in graph visualization”, <i>Information Visualization</i>, 2025. DOI: <a target="_blank" href="https://doi.org/10.1177/14738716251383173">10.1177/14738716251383173</a>
+  <li style="padding-bottom: 5px"> O. Zafar, U. Dogrusoz, <b>H. Balci</b>, A. F. Halac, “CMGV: Algorithms and a unified framework for complexity management in graph visualization”, <i>Information Visualization</i>, 2025. DOI: <a target="_blank" href="https://doi.org/10.1177/14738716251383173">10.1177/14738716251383173</a>
   </li>
   <li> A. Niarakis, G. An, L. Ladeira, …, <b>H. Balci</b>, …, and R. Laubenbacher, “Building Immune Digital Twins: An International and Transdisciplinary Community Effort”, <i>ImmunoInformatics</i>, 2025. DOI: <a target="_blank" href="https://doi.org/10.1016/j.immuno.2025.100060">10.1016/j.immuno.2025.100060</a>
   </li>
