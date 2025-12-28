@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at the [National Library of Medicine](https://www.ncbi.nlm.nih.gov/research/) (NLM) in the USA, supervised by Dr. Augustin Luna. My research interests range from developing novel methods for the visualization and analysis of graphs to their applications in the bioinformatics field. Recently, my focus has been on developing new techniques that leverage large language models (LLMs) to facilitate and expand the use of graph-based biological notations like [SBGN](https://sbgn.github.io/).
+I am a postdoctoral researcher at the [National Library of Medicine](https://www.ncbi.nlm.nih.gov/research/) (NLM) in the USA, supervised by [Dr. Augustin Luna](https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html). My research interests range from developing novel methods for the visualization and analysis of graphs to their applications in the bioinformatics field. Recently, my focus has been on developing new techniques that leverage large language models (LLMs) to facilitate and expand the use of graph-based biological notations such as [SBGN](https://sbgn.github.io/).
 
-Previously, I was a postdoctoral researcher at the [Maastricht Centre for Systems Biology (MaCSBio)](https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology) in the Netherlands, and I earned my PhD in Computer Engineering from [Bilkent University](https://w3.cs.bilkent.edu.tr/) in Türkiye. 
+I was previously a postdoctoral researcher at the [Maastricht Centre for Systems Biology (MaCSBio)](https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology) in the Netherlands, where I worked under the supervision of [Martina Summer-Kutmon](https://www.maastrichtuniversity.nl/m-summer-kutmon). I earned my PhD in Computer Engineering from [Bilkent University](https://w3.cs.bilkent.edu.tr/) in Türkiye under the supervision of [Ugur Dogrusoz](https://www.cs.bilkent.edu.tr/~ugur/).
 
 Here is my <a href="assets/pdf/Hasan_Balci_CV.pdf" target="_blank">CV</a>.
