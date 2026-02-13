@@ -9,9 +9,14 @@ nav_order: 3
 
 <ul>
   <li style="padding-bottom: 5px">
+  <em>Systems biology graphical notation: process description language level 1 version 2.1</em><br>
+  <b>H. Balci</b>, A. Rougny, R. Overall, …, and  A. Luna<br>
+  Journal of Integrative Bioinformatics, 20250018,(2026. DOI: <a target="_blank" href="https://doi.org/10.1515/jib-2025-0018">10.1515/jib-2025-0018</a>
+  </li>
+  <li style="padding-bottom: 5px">
   <em>SyBValS: a validation and error resolution service for biological pathway maps</em><br>
   Y. Z. Ozgul, U. Dogrusoz, <b>H. Balci</b><br>
-  BMC Genomics, 2025. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
+  BMC Genomics, 27, 106,(2026. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>CMGV: Algorithms and a unified framework for complexity management in graph visualization</em><br>
@@ -21,7 +26,7 @@ nav_order: 3
   <li style="padding-bottom: 5px">
   <em>Building Immune Digital Twins: An International and Transdisciplinary Community Effort</em><br>
   A. Niarakis, G. An, L. Ladeira, …, <b>H. Balci</b>, …, and R. Laubenbacher<br>
-  ImmunoInformatics, 2025. DOI: <a target="_blank" href="https://doi.org/10.1016/j.immuno.2025.100060">10.1016/j.immuno.2025.100060</a>
+  ImmunoInformatics, 20, 100060, 2025. DOI: <a target="_blank" href="https://doi.org/10.1016/j.immuno.2025.100060">10.1016/j.immuno.2025.100060</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>Immune digital twins for complex human pathologies: applications, limitations, and challenges</em><br>
