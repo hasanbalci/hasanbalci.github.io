@@ -10,13 +10,13 @@ nav_order: 3
 <ul>
   <li style="padding-bottom: 5px">
   <em>Systems biology graphical notation: process description language level 1 version 2.1</em><br>
-  <b>H. Balci</b>, A. Rougny, R. Overall, …, and  A. Luna<br>
-  Journal of Integrative Bioinformatics, 20250018,(2026. DOI: <a target="_blank" href="https://doi.org/10.1515/jib-2025-0018">10.1515/jib-2025-0018</a>
+  <b>H. Balci</b>, A. Rougny, R. Overall, I. Balaur, …, U. Dogrusoz, and A. Luna<br>
+  Journal of Integrative Bioinformatics, 20250018, 2026. DOI: <a target="_blank" href="https://doi.org/10.1515/jib-2025-0018">10.1515/jib-2025-0018</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>SyBValS: a validation and error resolution service for biological pathway maps</em><br>
   Y. Z. Ozgul, U. Dogrusoz, <b>H. Balci</b><br>
-  BMC Genomics, 27, 106,(2026. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
+  BMC Genomics, 27, 106, 2026. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>CMGV: Algorithms and a unified framework for complexity management in graph visualization</em><br>
