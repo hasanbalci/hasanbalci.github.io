@@ -19,7 +19,7 @@ I am a postdoctoral researcher at the <a href="https://www.ncbi.nlm.nih.gov/rese
 </div>
 
 <div style="text-align: justify; margin-bottom: 5px">
-My research interests lie at the intersection of graph visualization, network science, bioinformatics, and scientific software systems. I develop methods for visualizing, analyzing, and interacting with complex graphs, and apply these methods to biological pathways and molecular interaction networks represented using standards such as SBGN. More recently, my work has focused on AI-assisted and human-in-the-loop approaches for analyzing graph-structured data, including the generation, integration, and interpretation of pathway maps through interactive and intelligent methods.
+My research interests lie at the intersection of graph visualization, network science, bioinformatics, and scientific software systems. I develop methods for visualizing, analyzing, and interacting with complex graphs, with applications to biological pathways and molecular interaction networks represented using standards such as SBGN. More recently, my work has focused on AI-assisted and human-in-the-loop approaches for generating, integrating, and interpreting graph-structured data through interactive and intelligent methods.
 </div>
 
 <div style="text-align: justify; margin-bottom: 5px">

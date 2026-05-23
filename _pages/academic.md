@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-##### My academic journey
+##### My Academic Journey
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -54,3 +54,7 @@ nav_order: 2
     <td class="tg-btxf">BSc student</td>
   </tr>
 </tbody></table>
+
+##### Research Overview
+
+![Research Overview](assets/img/research_overview.png)
