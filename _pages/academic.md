@@ -54,7 +54,8 @@ nav_order: 2
     <td class="tg-btxf">BSc student</td>
   </tr>
 </tbody></table>
+<br>
 
 ##### Research Overview
 
-![Research Overview](assets/img/research_overview.png)
+<img src="../assets/img/research_overview.png" width="300">
