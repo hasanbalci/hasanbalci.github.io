@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-##### My Academic Journey
+##### My Academic Journey  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -58,4 +58,4 @@ nav_order: 2
 
 ##### Research Overview
 
-<img src="../assets/img/research_overview.png" width="300">
+<img src="../assets/img/research_overview.png" width="690">
