@@ -21,7 +21,7 @@ nav_order: 2
 .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+<table class="tg" style="margin-top: 10px"><thead>
   <tr>
     <th class="tg-0lax">2024 - present</th>
     <th class="tg-0lax">National Library of Medicine (NLM), NIH, USA</th>
@@ -58,4 +58,4 @@ nav_order: 2
 
 ##### Research Overview
 
-<img src="../assets/img/research_overview.png" width="690">
+<img src="../assets/img/research_overview.png" width="690" style="margin-top: -8px">
