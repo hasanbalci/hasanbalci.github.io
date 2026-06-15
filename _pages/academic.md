@@ -55,7 +55,3 @@ nav_order: 2
   </tr>
 </tbody></table>
 <br>
-
-##### Research Overview
-
-<img src="../assets/img/research_overview.png" width="690" style="margin-top: -8px">
