@@ -23,7 +23,7 @@ nav_order: 2
 </style>
 <table class="tg" style="margin-top: 10px"><thead>
   <tr>
-    <th class="tg-0lax">2024 - present</th>
+    <th class="tg-0lax">2024 - 2026</th>
     <th class="tg-0lax">National Library of Medicine (NLM), NIH, USA</th>
     <th class="tg-0lax">Postdoctoral researcher</th>
   </tr></thead>
