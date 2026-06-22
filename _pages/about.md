@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <div style="text-align: justify; margin-bottom: 5px">
-I recently completed my postdoctoral research at the <a href="https://www.ncbi.nlm.nih.gov/research/" target="_blank">National Library of Medicine</a> (NLM), NIH, where I worked with <a href="https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html" target="_blank">Dr. Augustin Luna</a>. 
+I recently completed my postdoctoral research at the <a href="https://www.ncbi.nlm.nih.gov/research/" target="_blank">National Library of Medicine (NLM)</a>, NIH, where I worked with <a href="https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html" target="_blank">Dr. Augustin Luna</a>. 
 </div>
 
 <div style="text-align: justify; margin-bottom: 5px">
