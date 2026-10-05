@@ -15,11 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <div style="text-align: justify; margin-bottom: 5px">
-I recently completed my postdoctoral research at the <a href="https://www.ncbi.nlm.nih.gov/research/" target="_blank">National Library of Medicine (NLM)</a>, NIH, where I worked with <a href="https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html" target="_blank">Dr. Augustin Luna</a>. 
+I recently completed my postdoctoral research at the <a href="https://www.ncbi.nlm.nih.gov/research/" target="_blank">National Library of Medicine (NLM), NIH</a>, where I worked with <a href="https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html" target="_blank">Dr. Augustin Luna</a>. 
 </div>
 
 <div style="text-align: justify; margin-bottom: 5px">
-My research brings together computational biology, graph visualization, and graph algorithms to develop interactive and intelligent methods for biological knowledge representation. I focus on the construction, visualization, and refinement of biological pathway maps and molecular interaction networks, using AI-assisted and human-in-the-loop approaches that combine algorithmic automation with domain expert knowledge.
+My research interests lie at the intersection of graph visualization, graph algorithms, and computational biology. I develop computational and interactive methods for representing, analyzing, and visualizing complex networks, with a particular focus on biological networks and pathway maps. I combine graph-based methods with AI-assisted and human-in-the-loop approaches to support biological knowledge curation and interpretation. I am also interested in knowledge graphs and graph-based approaches to scientific data integration and analysis.
 </div>
 
 <div style="text-align: justify; margin-bottom: 5px">

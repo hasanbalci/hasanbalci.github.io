@@ -14,19 +14,24 @@ nav_order: 3
   Journal of Integrative Bioinformatics, Accepted/In Press.
   </li>
   <li style="padding-bottom: 5px">
-  <em>Systems biology graphical notation: process description language level 1 version 2.1</em><br>
-  <b>H. Balci</b>, A. Rougny, R. Overall, I. Balaur, …, U. Dogrusoz, and A. Luna<br>
-  Journal of Integrative Bioinformatics, 20250018, 2026. DOI: <a target="_blank" href="https://doi.org/10.1515/jib-2025-0018">10.1515/jib-2025-0018</a>
-  </li>
-  <li style="padding-bottom: 5px">
-  <em>SyBValS: a validation and error resolution service for biological pathway maps</em><br>
-  Y. Z. Ozgul, U. Dogrusoz, and <b>H. Balci</b><br>
-  BMC Genomics, 27, 106, 2026. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
+  <em>HySE: a force-directed layout algorithm for directed and mixed graphs</em><br>
+  U. Dogrusoz, H. Islam, and <b>H. Balci</b><br>
+  Computer Graphics Forum, e70586, 2026. DOI: <a target="_blank" href="https://doi.org/10.1111/cgf.70586">10.1111/cgf.70586</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>CMGV: Algorithms and a unified framework for complexity management in graph visualization</em><br>
   O. Zafar, U. Dogrusoz, <b>H. Balci</b>, and A. F. Halac<br>
-  Information Visualization, 2025. DOI: <a target="_blank" href="https://doi.org/10.1177/14738716251383173">10.1177/14738716251383173</a>
+  Information Visualization, 25(2), pp. 192-208, 2025. DOI: <a target="_blank" href="https://doi.org/10.1177/14738716251383173">10.1177/14738716251383173</a>
+  </li>
+  <li style="padding-bottom: 5px">
+  <em>SyBValS: a validation and error resolution service for biological pathway maps</em><br>
+  Y. Z. Ozgul, U. Dogrusoz, and <b>H. Balci</b><br>
+  BMC Genomics, 27(106), 2026. DOI: <a target="_blank" href="https://doi.org/10.1186/s12864-025-12454-4">10.1186/s12864-025-12454-4</a>
+  </li>
+  <li style="padding-bottom: 5px">
+  <em>Systems biology graphical notation: process description language level 1 version 2.1</em><br>
+  <b>H. Balci</b>, A. Rougny, R. Overall, I. Balaur, …, U. Dogrusoz, and A. Luna<br>
+  Journal of Integrative Bioinformatics, 20250018, 2026. DOI: <a target="_blank" href="https://doi.org/10.1515/jib-2025-0018">10.1515/jib-2025-0018</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>Building Immune Digital Twins: An International and Transdisciplinary Community Effort</em><br>
@@ -41,7 +46,7 @@ nav_order: 3
   <li style="padding-bottom: 5px">
   <em>WikiPathways 2024: next generation pathway database</em><br>
   A. Agrawal, <b>H. Balcı</b>, K. Hanspers, S. L. Coort, M. Martens, D. N. Slenter, …, and A. R. Pico<br>
-  Nucleic Acids Research, 52(D1), D679-D689, 2024. DOI: <a target="_blank" href="https://doi.org/10.1093/nar/gkad960">10.1093/nar/gkad960</a>
+  Nucleic Acids Research, 52(D1), pp. D679-D689, 2024. DOI: <a target="_blank" href="https://doi.org/10.1093/nar/gkad960">10.1093/nar/gkad960</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>SyBLaRS: A web service for laying out, rendering and mining biological maps in SBGN, SBML and more</em><br>
