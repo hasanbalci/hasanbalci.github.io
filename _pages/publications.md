@@ -11,7 +11,7 @@ nav_order: 3
   <li style="padding-bottom: 5px">
   <em>Systems biology graphical notation: activity flow language level 1 version 1.3</em><br>
   <b>H. Balci</b>, A. Rougny, L. Ladeira, H. Mi, …, T. Czauderna, and A. Luna<br>
-  Journal of Integrative Bioinformatics, Accepted/In Press.
+  Journal of Integrative Bioinformatics, 20250082, 2026. DOI: <a target="_blank" href="https://doi.org/10.1515/jib-2025-0082">10.1515/jib-2025-0082</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>HySE: a force-directed layout algorithm for directed and mixed graphs</em><br>
@@ -21,7 +21,7 @@ nav_order: 3
   <li style="padding-bottom: 5px">
   <em>CMGV: Algorithms and a unified framework for complexity management in graph visualization</em><br>
   O. Zafar, U. Dogrusoz, <b>H. Balci</b>, and A. F. Halac<br>
-  Information Visualization, 25(2), pp. 192-208, 2025. DOI: <a target="_blank" href="https://doi.org/10.1177/14738716251383173">10.1177/14738716251383173</a>
+  Information Visualization, 25(2), pp. 192-208, 2026. DOI: <a target="_blank" href="https://doi.org/10.1177/14738716251383173">10.1177/14738716251383173</a>
   </li>
   <li style="padding-bottom: 5px">
   <em>SyBValS: a validation and error resolution service for biological pathway maps</em><br>
